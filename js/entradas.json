@@ -1,0 +1,8 @@
+[
+    {"id": 1, "artista": "Taylor Swift", "precio": 55000, "fecha": "Octubre 13 2024", "cantidad": 0,  "categoria":"internacional", "imagen": "imagenes/taylorSwiftEntrada.jpg"},
+    {"id": 2, "artista": "Arctic Monkeys", "precio": 25000, "fecha": "Septiembre 7 2024", "cantidad": 0,  "categoria":"internacional", "imagen": "imagenes/arcticMonkeysEntrada.jpg"},
+    {"id": 3, "artista": "5SOS", "precio": 15000, "fecha": "Julio 30 2025", "cantidad": 0,  "categoria":"internacional", "imagen": "imagenes/5sosEntrada.png"},
+    {"id": 4, "artista": "Olivia Rodrigo", "precio": 35000, "fecha": "Junio 20 2024", "cantidad": 0,  "categoria":"internacional", "imagen": "imagenes/oliviaRodrigoEntrada.png"},
+    {"id": 5, "artista": "Emilia", "precio": 20000, "fecha": "Abril 6 2025", "cantidad": 0,  "categoria":"nacional", "imagen": "imagenes/emiliaEntrada.png"},
+    {"id": 6, "artista": "Paulo Londra", "precio": 10000, "fecha": "Octubre 3 2024", "cantidad": 0,  "categoria":"nacional", "imagen": "imagenes/pauloLondraEntrada.png"}
+]
